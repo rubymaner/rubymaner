@@ -1,5 +1,5 @@
 # Hi I'm Rubina<h1> 
-      <p><h3>WEB DESIGNER & DEVELOPER</h3></p> 
+<b>WEB DESIGNER & DEVELOPER</b>
      
   
 <!--
