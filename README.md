@@ -1,5 +1,5 @@
 # Hi I'm Rubina<h1> 
-## <h3>WEB DEGIGNER & DEVELOPER</h3>
+      <h3>WEB DEGIGNER & DEVELOPER</h3>
       <img src="RM.png" width="30%" alt="avatar/">
   
 <!--
