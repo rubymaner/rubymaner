@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi I'm Rubina<h1> tag 👋
+## <h3>WEB DEGIGNER & DEVELOPER</h3>
+  
 <!--
 **rubymaner/rubymaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
