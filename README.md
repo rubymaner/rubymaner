@@ -1,18 +1,15 @@
 # Hi I'm Rubina<h1> 
 <b>FREELANCER</b>
-  
 
-<!--
-**rubymaner/rubymaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer, Software Developer Enthusiast and an open source contributer. Some technologies I enjoy working with include HTML5, CSS3, JavaScript, SQL etc. I recently launched my portfolio website- <a href="https://rubymaner.github.io/portfolio">Rubina's Portfolio</a> as a project.
+- 🔭 I’m currently working on<b>Logo & Web Design</b>
+- 🌱 I’m currently learning <b>Full Stack Developement</b>
+- 👯 I’m looking to collaborate on <b>Youtube</b>
+- 🤔 I’m looking for help with <b>Open Source Developement</b>
+- 💬 Ask me about <b>Web Developement, SQL</b>
+- 😄 Pronouns: She/Her
 
-Here are some ideas to get you started:
+<h2>Find me around the web 🌍:</h2>
 
-- 🔭 I’m currently working on ... Logo & Web Design
-- 🌱 I’m currently learning ... JAVA & JAVAScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- My Portfolio -<a href="https://rubymaner.github.io/portfolio">@HackerRank</a>
+- Sharing updates on Linkedin -<a href="https://www.linkedin.com/in/rubina-maner-5a4b951b9">@Linkedin</a>
