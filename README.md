@@ -1,5 +1,4 @@
-# Hi I'm Rubina<h1> 
-<b>FREELANCER</b>
+# Hi I'm Rubina
 
 I'm a Full Stack Developer, Software Developer Enthusiast and an open source contributer. Some technologies I enjoy working with include HTML5, CSS3, JavaScript, SQL etc. I recently launched my portfolio website- <a href="https://rubymaner.github.io/portfolio">Rubina's Portfolio</a> as a project.
 - 🔭 I’m currently working on<b>Logo & Web Design</b>
